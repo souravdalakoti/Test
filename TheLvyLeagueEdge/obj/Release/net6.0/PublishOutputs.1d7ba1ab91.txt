@@ -1,7 +1,0 @@
-D:\TheLvyLeague\TheLvyLeagueEdge\TheLvyLeagueEdge\obj\Release\net6.0\PubTmp\Out\TheLvyLeagueEdge.exe
-D:\TheLvyLeague\TheLvyLeagueEdge\TheLvyLeagueEdge\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
-D:\TheLvyLeague\TheLvyLeagueEdge\TheLvyLeagueEdge\obj\Release\net6.0\PubTmp\Out\appsettings.json
-D:\TheLvyLeague\TheLvyLeagueEdge\TheLvyLeagueEdge\obj\Release\net6.0\PubTmp\Out\TheLvyLeagueEdge.dll
-D:\TheLvyLeague\TheLvyLeagueEdge\TheLvyLeagueEdge\obj\Release\net6.0\PubTmp\Out\TheLvyLeagueEdge.deps.json
-D:\TheLvyLeague\TheLvyLeagueEdge\TheLvyLeagueEdge\obj\Release\net6.0\PubTmp\Out\TheLvyLeagueEdge.runtimeconfig.json
-D:\TheLvyLeague\TheLvyLeagueEdge\TheLvyLeagueEdge\obj\Release\net6.0\PubTmp\Out\TheLvyLeagueEdge.pdb
